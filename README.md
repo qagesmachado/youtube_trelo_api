@@ -32,3 +32,6 @@ python --version
 Acessar https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/
 e obter seu próprio api_key, token_trello e username
 Após isso adiciona-los no arquivo \resources\auth.robot
+
+### Sistema Operacional
+Windows
