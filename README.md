@@ -4,6 +4,7 @@
 
 ### Comandos de execução
 Ir para a pasta do projeto e de executar os comandos a seguir:
+Testes devem ser executados na ordem proposta
 
 ### Comando para executar todos os testes de um só vez
 * robot -d .\results -L trace test\trello_tests.robot
