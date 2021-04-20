@@ -18,7 +18,7 @@ Testes devem ser executados na ordem proposta
 
 
 ## Environment de teste
-pip freeze:
+pip freeze -> Executar: 'pip install <lib_a_seguir>==<versao_da_lib>'
 * robotframework==4.0.1
 * robotframework-databaselibrary==1.2.4
 * robotframework-datadriver==0.3.6
